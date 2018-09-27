@@ -1,5 +1,5 @@
 # FindMissing
-Find missing number Andela bootcamp assignment for day3
+Find missing number project
 
 1. Clone or download the application to your local computer
 2. Run npm install at the root directory
